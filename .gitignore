@@ -1,0 +1,11 @@
+protein_volume/3_A1-2v1_215-228-deleted_0086.pdb
+protein_volume/probe_grid.pdb
+protein_volume/protein_inverse_points.txt
+protein_volume/void_grid.pdb
+protein_volume/probe_points.txt
+protein_volume/protein_points.txt
+protein_volume/void_points.txt
+protein_volume/Grid_box.pdb
+protein_volume/protein_grid.pdb
+protein_volume/__pycache__
+protein_volume/volume_data.txt
