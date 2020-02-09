@@ -19,3 +19,11 @@ make_gpf_dpf.py --> Make gpf and dpf files for docking (Multiple protein gpf and
 grid_dock_mp.py --> Make map files from gpf and docked files from dpf
 
 dlg_to_pdb_V2.py --> To convert dlg(output of autodock) to pdb format. (Autodock support files)
+
+## library_entry_V5
+
+Gromacs library entry scripts (open folder for more info)
+
+## protein_volume
+
+Grid based protein volume calculation (Just a hobby script to see how to implement 3D in scripts)
